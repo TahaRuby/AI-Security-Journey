@@ -4,7 +4,8 @@
 ### هفته ۱ — راه‌اندازی
 - [x] ساخت اکانت GitHub
 - [x] ساخت ریپوی `ai-security-journey`
-- [] یادگیری دستورات پایه Git: init, add, commit, push, pull, status
+- [ ] - [] یادگیری دستورات پایه Git: init, add, commit, push, pull, status
+
 - منبع: کانال یوتوب Programming with Mosh - Git Tutorial
 - [x] ساخت فایل `notes.md` داخل ریپو
 - [ ] بازی Gandalf تا level 5 → gandalf.lakera.ai
