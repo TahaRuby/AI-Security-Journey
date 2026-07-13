@@ -2,7 +2,7 @@
 ## فاز ۰ — ریفرش پایتون + ابزارهای پایه (هفته ۱ تا ۴)
 
 ### هفته ۱ — راه‌اندازی
-- [ ] ساخت اکانت GitHub
+- [x] ساخت اکانت GitHub
 - [ ] ساخت ریپوی `ai-security-journey`
 - [ ] یادگیری دستورات پایه Git: init, add, commit, push, pull, status
   - منبع: کانال یوتوب Programming with Mosh - Git Tutorial
