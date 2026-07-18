@@ -1,8 +1,8 @@
-# یادداشت‌های من / My Notes
+# My Notes | یادداشت‌های من
 
-این فایل کاملاً برای خودمه. اینجا روزهام رو می‌نویسم، دقیقاً چیکار کردم توی این مسیر. شاید یه روز، مثل یه پیرمرد که از دور به زندگیش نگاه می‌کنه، بیام این فایل رو بخونم. سعی می‌کنم روزانه بنویسمش، شاید فقط فارسی، شاید بعضی جاها انگلیسی. آخر هر هفته هم یه خلاصه می‌نویسم.
+This file documents my AI Security learning journey.
 
-This file is completely personal to me. I will write down my days here and exactly what I did on this path. Maybe one day, like an old man looking back at his life from a distance, I will read this file again. I will try to write in it every day — maybe only in Persian, maybe some parts in English too. I will also write a short summary of my week.
+این فایل مسیر یادگیری من در حوزه AI Security را ثبت می‌کند.
 
 ---
 
