@@ -8,7 +8,7 @@
 
 - منبع: کانال یوتوب Programming with Mosh - Git Tutorial
 - [x] ساخت فایل `notes.md` داخل ریپو
-- [ ] بازی Gandalf تا level 5 → gandalf.lakera.ai
+- [X] بازی Gandalf تا level 5 → gandalf.lakera.ai
 
 ### هفته ۲ — مرور پایتون (پایه + OOP)
 - [ ] مرور variables, loops, functions
