@@ -7,8 +7,7 @@ I wanted to venture into the world of AI and security, so I started this. This r
 ## Structure
 
 - roadmap.md — نقشه راه کامل یادگیری
-- notes.md — یادداشت‌ها و مفاهیمی که یاد می‌گیرم
-
+- notes - توضیحات  مربوط به مسیر 
 ## Status
 
 تازه شروع کردم!
