@@ -8,6 +8,8 @@ I wanted to venture into the world of AI and security, so I started this. This r
 
 - roadmap.md — نقشه راه کامل یادگیری
 - notes  —  توضیحات  مربوط به مسیر 
+- python - تمرینات و مسیر پایتون 
+
 ## Status
 
 تازه شروع کردم!
