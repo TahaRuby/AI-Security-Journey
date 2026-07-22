@@ -23,6 +23,7 @@ maximum = y[0] #We set y to zero.
 minimum = y[0] #We set y to zero.
 
 for number in y: # We create a loop to compare the largest and smallest numbers.
+    
     if number > maximum:
         maximum = number
 
