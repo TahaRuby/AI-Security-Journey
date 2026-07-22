@@ -4,9 +4,10 @@
 # student names.
 # ==========================================
 
-students = []
+students = [] 
 
-# Collect student names until the user exits
+# Collect student names until the user exits 
+
 while True:
     name = input("Enter student name (or type 'exit' to finish): ")
 
