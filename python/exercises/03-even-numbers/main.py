@@ -33,6 +33,7 @@ else:
     print("No even numbers found.")
 
 # Display odd numbers
+
 print("\n===== Odd Numbers =====")
 
 if odd_numbers:
