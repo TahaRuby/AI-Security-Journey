@@ -11,7 +11,7 @@
 - [X] بازی Gandalf تا level 5 → gandalf.lakera.ai
 
 ### هفته ۲ — مرور پایتون (پایه + OOP)
-- [ ] مرور variables, loops, functions
+- [x] مرور variables, loops, functions
 - [ ] مرور class, object, inheritance (OOP)
   - منبع: w3schools.com/python یا دوره پایتون کوئرا کالج
 - [ ] حل ۵ تمرین از exercism.org (مسیر Python)
